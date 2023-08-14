@@ -4,6 +4,7 @@ password = "testpas123"
 input_username = input("What is your username?")
 input_password = input("What is your password?")
 
+#            True                           True
 if username == input_username and password == input_password:
     print("You are logged in!")
 else:
